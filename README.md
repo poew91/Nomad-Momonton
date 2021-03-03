@@ -1,8 +1,8 @@
 <h1>Momonton with Vanilla JS</h1>
 
-Clock
-To Do List
-Weather
-Daily Quote
-Daily Photo
-Offline Support
+Clock<br>
+To Do List<br>
+Weather<br>
+Daily Quote<br>
+Daily Photo<br>
+Offline Support<br>
